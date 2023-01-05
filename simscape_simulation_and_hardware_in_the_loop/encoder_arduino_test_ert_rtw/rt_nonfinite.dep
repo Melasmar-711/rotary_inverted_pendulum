@@ -1,0 +1,14 @@
+rt_nonfinite.o: \
+ D:/send_to_osama/encoder_arduino_test_ert_rtw/rt_nonfinite.c \
+ D:/send_to_osama/encoder_arduino_test_ert_rtw/rt_nonfinite.h \
+ D:/send_to_osama/encoder_arduino_test_ert_rtw/rtwtypes.h \
+ D:/send_to_osama/encoder_arduino_test_ert_rtw/rtGetNaN.h \
+ D:/send_to_osama/encoder_arduino_test_ert_rtw/rtGetInf.h
+
+D:/send_to_osama/encoder_arduino_test_ert_rtw/rt_nonfinite.h:
+
+D:/send_to_osama/encoder_arduino_test_ert_rtw/rtwtypes.h:
+
+D:/send_to_osama/encoder_arduino_test_ert_rtw/rtGetNaN.h:
+
+D:/send_to_osama/encoder_arduino_test_ert_rtw/rtGetInf.h:
