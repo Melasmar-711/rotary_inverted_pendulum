@@ -22,8 +22,8 @@ lqr control method used to control a Futura inverted pendulum . modeled , simula
 
 # prequesites 
 if you are using the Hardware in the loop simulink model in the real life application:
--Simulink Hardware Support package for arduino
--Drivers guide 
+- Simulink Hardware Support package for arduino
+- Drivers guide 
 
 if you are using the simulink model in the real life application:
 - Arduinoio
