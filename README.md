@@ -2,7 +2,6 @@
  lqr control over rotary inverted pendulum
 
 
-[![Watch the video](https://img.youtube.com/vi/KOM0r-w6caM/hqdefault.jpg)](https://www.youtube.com/embed/KOM0r-w6caM)
 
 [<img src="https://img.youtube.com/vi/KOM0r-w6caM/hqdefault.jpg" width="600" height="300"
 />](https://www.youtube.com/embed/KOM0r-w6caM)
