@@ -1,6 +1,9 @@
 # rotary_inverted_pendulum
  lqr control over rotary inverted pendulum
 
+[<img src="https://img.youtube.com/vi/[<VIDEO_ID>](https://youtu.be/KOM0r-w6caM)/hqdefault.jpg" width="600" height="300"/>](https://www.youtube.com/embed/https://youtu.be/KOM0r-w6caM)
+ 
+
 # Description
 lqr control method used to control a Futura inverted pendulum . modeled , simulated and tested in real life
 
