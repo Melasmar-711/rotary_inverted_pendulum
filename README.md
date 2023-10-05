@@ -1,7 +1,7 @@
 # rotary_inverted_pendulum
  lqr control over rotary inverted pendulum
 
-[<img src="https://www.researchgate.net/publication/339847339/figure/fig1/AS:867890999873538@1583932747858/Rotary-inverted-pendulum-prototype-manufactured-by-Quanser-left-and-the-schematic.ppm" width="600" height="300"/>](https://www.youtube.com/embed/https://youtu.be/KOM0r-w6caM)
+[<img src="[https://www.researchgate.net/publication/339847339/figure/fig1/AS:867890999873538@1583932747858/Rotary-inverted-pendulum-prototype-manufactured-by-Quanser-left-and-the-schematic.ppm](https://www.researchgate.net/profile/Marcio-Martins-9/publication/339847339/figure/fig1/AS:867890999873538@1583932747858/Rotary-inverted-pendulum-prototype-manufactured-by-Quanser-left-and-the-schematic.ppm)" width="600" height="300"/>](https://www.youtube.com/embed/https://youtu.be/KOM0r-w6caM)
  
 
 # Description
